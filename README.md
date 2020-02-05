@@ -25,7 +25,7 @@ This one day course consists of interactively exposing lab technicians to optimi
 • Learners can tell what types of material are needed for each part of a training session
 
 
-Acknowledgements:
+## Acknowledgements:
 
 This content is. to a large extent, adapted from the Foster Open Science Training Handbook (chapter on Learning and Training). Some inspiration came from the original material developed for the ELIXIR EXCELERATE TtT. I have been a co-author in both.
 
