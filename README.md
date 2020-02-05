@@ -27,4 +27,6 @@ This one day course consists of interactively exposing lab technicians to optimi
 
 Acknowledgements:
 
+This content is. to a large extent, adapted from the Foster Open Science Training Handbook (chapter on Learning and Training). Some inspiration came from the original material developed for the ELIXIR EXCELERATE TtT. I have been a co-author in both.
 
+Many of the adaptations come from informal conversations with all sorts of professional technicians in the life sciences, to whom I am extremely grateful.
