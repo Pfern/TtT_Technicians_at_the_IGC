@@ -5,8 +5,11 @@ This one day course consists of interactively exposing lab technicians to optimi
 ## Learning Objectives:
 
 • To get acquainted with learning principles and how they apply to training
+
 • To be able to select and utilise training techniques that can be used to enhance learner engagement and participation
+
 • To learn how to use assessment and feedback in training
+
 • To learn about session, course, and materials design
 
 ## Learning Outcomes:
