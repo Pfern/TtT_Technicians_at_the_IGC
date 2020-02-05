@@ -13,8 +13,18 @@ This one day course consists of interactively exposing lab technicians to optimi
 • To learn about session, course, and materials design
 
 ## Learning Outcomes:
+
 • Learners can tell which learning principles a good trainer should have in mind
+
 • Learners can describe at least three training techniques drawing on learning principles
+
 • Learners can design a training session and a course
+
 • Learners can develop assessment questionnaires
+
 • Learners can tell what types of material are needed for each part of a training session
+
+
+Acknowledgements:
+
+
