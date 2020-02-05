@@ -33,5 +33,6 @@ Many of the adaptations come from informal conversations with all sorts of profe
 
 ## References:
 
-[1] https://book.fosteropenscience.eu/en/      or   https://book.fosteropenscience.eu/pt/
+[1] https://book.fosteropenscience.eu/en/  (in English)    or   https://book.fosteropenscience.eu/pt/ (in Portuguese)
+
 [2] https://github.com/Pfern/EXCELERATE-TtT/tree/master/courses/Oeiras_2017_January
