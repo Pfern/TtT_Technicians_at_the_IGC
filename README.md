@@ -1,4 +1,4 @@
-# TtT_for_Technicians_at_the_IGC
+# TtT for Technicians at the IGC
 
 This one day course consists of interactively exposing lab technicians to optimised ways of training preparation and delivery. It will have very short presentations followed by interactive exercises. The focus will be the training of users (here named as learners) and its optimisation. The examples will illustrate good practices in facility usage and data production. It is expected that participants will cooperate in using the outcomes to optimise their own training routines and, if possible, influence the adequate operation procedures regarding training, namely when training other technicians.
 
