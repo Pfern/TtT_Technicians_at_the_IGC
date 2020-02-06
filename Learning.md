@@ -21,8 +21,13 @@ We want training to complement formal learning. Optimal training provision requi
 
 
 
-Please watch Peer Instruction for Active Learning - Eric Mazur (https://www.youtube.com/watch?v=Z9orbxoRofI)  and let us discuss it!
+Please watch Peer Instruction for Active Learning - Eric Mazur (https://www.youtube.com/watch?v=Z9orbxoRofI)  
 
+Please take a note on the important concepts, and let us discuss it!
+
+
+
+## Designing training
 
 ## Objectives vs Outcomes
 
