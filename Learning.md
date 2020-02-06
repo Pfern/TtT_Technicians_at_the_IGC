@@ -13,6 +13,8 @@ Training aims at effectiveness in:
 
 We want training to complement formal learning. Optimal training provision requires good methodological practice.
 
+## Objectives vs Outcomes
+
 In the attempt of removing ambiguities we will use the term #Teaching Objectives to mean:
 
 Objectives describe the goals and intentions of the instructor.
@@ -29,6 +31,7 @@ Outcomes express higher-level thinking skills that integrate course content and 
 Outcomes are exactly what assessments are intended to show – specifically what the student will be able to do upon completing the course.
 An assessable outcome can be displayed or observed and evaluated against criteria.
 Outcomes are clear and measurable criteria for guiding the teaching, learning, and assessment process in the course.
+
 Adapted from http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes
 
 
