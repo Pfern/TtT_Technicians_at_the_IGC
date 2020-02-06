@@ -13,6 +13,17 @@ Training aims at effectiveness in:
 
 We want training to complement formal learning. Optimal training provision requires good methodological practice.
 
+## Active learning
+
+      “I hear and I forget. I see and I remember. I do and I understand.” – Confucius
+
+“Learners who actively engage with course materials will end up retaining it for much longer than they would have otherwise, and they will be better able to apply their knowledge broadly.” (Waldrop, Nature 2015).
+
+Peer Instruction for Active Learning - Eric Mazur
+
+Please watch https://www.youtube.com/watch?v=Z9orbxoRofI  and let us discuss it!
+
+
 ## Objectives vs Outcomes
 
 In the attempt of removing ambiguities we will use the term #Teaching Objectives to mean:
