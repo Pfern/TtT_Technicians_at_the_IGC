@@ -19,9 +19,9 @@ We want training to complement formal learning. Optimal training provision requi
 
 “Learners who actively engage with course materials will end up retaining it for much longer than they would have otherwise, and they will be better able to apply their knowledge broadly.” (Waldrop, Nature 2015).
 
-Peer Instruction for Active Learning - Eric Mazur
 
-Please watch https://www.youtube.com/watch?v=Z9orbxoRofI  and let us discuss it!
+
+Please watch Peer Instruction for Active Learning - Eric Mazur (https://www.youtube.com/watch?v=Z9orbxoRofI)  and let us discuss it!
 
 
 ## Objectives vs Outcomes
